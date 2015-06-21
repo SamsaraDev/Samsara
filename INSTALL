@@ -1,0 +1,9 @@
+Building Samsara
+
+See doc/readme-qt.rst for instructions on building Samsara QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Samsara.
+
+See doc/build-*.txt for instructions on building Samsarad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Samsara.
